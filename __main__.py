@@ -1,5 +1,5 @@
 import constants
-from Scrapings.scraping import scrap_all
+from scraping import scrap_all
 
 
 def display_menu():

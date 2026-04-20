@@ -5,7 +5,7 @@ import requests
 import math
 
 import constants
-from Scrapings.utils import save_to_image_file, save_to_csv_file
+from utils import save_to_image_file, save_to_csv_file
 
 
 def parse_html(url: str) -> BeautifulSoup:
